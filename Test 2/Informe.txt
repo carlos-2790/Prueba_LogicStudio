@@ -1,0 +1,19 @@
+# Informe de Pruebas
+
+## Hallazgos
+
+Todos los casos de prueba se ejecutaron con éxito. Aquí están los detalles:
+
+1. **Caso 1 - parte 1**: El login fue exitoso con las entradas proporcionadas.
+2. **Caso 1 - parte 2**: El login fue exitoso .
+3. **Caso 2 - parte 1**: El login falló como se esperaba con las entradas proporcionadas.
+4. **Caso 2 - parte 2**: El login falló .
+
+## Conclusiones
+
+- La funcionalidad de login de la página funciona como se espera tanto en los escenarios de éxito como de fracaso.
+- Las entradas y salidas son las esperadas y las validaciones son correctas.
+
+## Recomendaciones
+
+Dado que todas las pruebas pasaron con éxito, no hay recomendaciones de mejora específicas para la página en este momento. Sin embargo, se recomienda continuar con las pruebas regulares para asegurar que la funcionalidad se mantenga a medida que la página se actualiza.

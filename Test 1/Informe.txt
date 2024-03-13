@@ -1,0 +1,31 @@
+# Informe de Pruebas
+
+## Hallazgos
+
+1. **Título de la página**: El título actual de la página es "Space & Beyond | Testim.io demo", que no coincide con el esperado "Space & Beyond space| Testim.io demo".
+
+2. **Destino Madan**: El destino "Madan" fue encontrado correctamente.
+
+3. **Fecha seleccionada**: La fecha seleccionada mostrada es "11 March 2024", que no coincide con la esperada "28 April 2023".
+
+4. **Cantidad de tickets**: Se seleccionaron correctamente 2 tickets para adultos y 1 ticket para niños.
+
+5. **Color seleccionado**: El color "Blue" fue seleccionado correctamente.
+
+6. **Destino Tayabamba**: El destino "Tayabamba" fue seleccionado, pero no se muestra como "BOOKED".
+
+7. **Código ingresado**: El código "30076" fue ingresado correctamente.
+
+8. **Botón Pay Now**: El botón "Pay Now" no es clickeable.
+
+## Conclusiones
+
+- La mayoría de las funcionalidades de la página funcionan como se esperaba.
+- Se encontraron algunos problemas, como discrepancias en el título de la página y la fecha seleccionada, y un problema con el estado de reserva del destino y la funcionalidad del botón "Pay Now".
+
+## Recomendaciones
+
+- Corregir el título de la página para que coincida con el esperado.
+- La fecha seleccionada 28 April 2023 no se muestra debido a que al dia de hoy es una fecha ya pasada por lo cual no se puede           seleccionar,de todas formas se verifica que se muestre una vez se selecciona y por eso falla el caso.
+- Corregir el estado de reserva del destino para que se muestre como "BOOKED" cuando se selecciona un destino.
+- Habilitar la funcionalidad del botón "Pay Now" para que sea clickeable.
